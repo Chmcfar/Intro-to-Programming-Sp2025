@@ -1,5 +1,5 @@
 # Intro-to-Programming-Sp2025
-A collection of programs written during my Intro to Programming Class Spring 2025. 
+A collection of programs written during my Spring 2025 Intro to Programming Class. 
 
 Each week consists of a description of what was learned. Nearly everything is cumulative, so descriptions show the initial instance of topics.
 
