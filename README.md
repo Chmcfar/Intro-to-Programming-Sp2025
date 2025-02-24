@@ -27,10 +27,11 @@ For Loops, Type Hinting, Better tuples with `namedtuple`, fancier tables with `r
 - [*Calculating the Factorial of a Number*](https://github.com/Chmcfar/Intro-to-Programming-Sp2025/blob/main/Week%204/4-2%20Calculating%20the%20Factorial%20of%20a%20Number.py)
 - [*Population*](https://github.com/Chmcfar/Intro-to-Programming-Sp2025/blob/main/Week%204/4-3%20Population.py)
 
-**Week 5**
-- [**]()
-- [**]()
-- [**]()
+## **Week 5**
+Reinforcing previous concepts, appreciating the power of pseudo code and prototyping
+- [*Hot Dog Cookout Calculator*](https://github.com/Chmcfar/Intro-to-Programming-Sp2025/blob/main/Week%205/E1-1%20Hot%20Dog%20Cookout%20Calculator.py)
+- [*Grapevines*](https://github.com/Chmcfar/Intro-to-Programming-Sp2025/blob/main/Week%205/E1-2%20Grapevines.py)
+- [*Tuition Increase*](https://github.com/Chmcfar/Intro-to-Programming-Sp2025/blob/main/Week%205/E1-3%20Tuition%20Increase.py)
 
 **Week 6**
 - [**]()
